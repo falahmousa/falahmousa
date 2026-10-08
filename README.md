@@ -24,11 +24,19 @@ A Python-based tool for discovering bibliographic information and preparing stru
 
 [Explore AI Research on GitHub](https://github.com/falahmousa/ai-research)
 
+**Selected work and tools**
+
+- [Practical guide: How to verify an AI-generated answer](https://github.com/falahmousa/ai-research/blob/main/guides/verify-ai-research.md)
+- [Sample evidence brief: Elections and democracy](https://github.com/falahmousa/ai-research/blob/main/books-evidence/democracy-elections.md)
+- [Book Research Helper and review templates](https://github.com/falahmousa/ai-research/tree/main/tools/book-research-assistant)
+
 ## Professional Services
 
 I undertake commissioned research, analytical writing, editorial work, source verification and research assignments involving English and Arabic materials.
 
 Assignments are agreed individually, with clearly defined deliverables, fees and deadlines.
+
+[See commissioned research services and example deliverables](https://github.com/falahmousa/ai-research/blob/main/guides/commission-research.md)
 
 **Website:** https://falahmousa.com
 
